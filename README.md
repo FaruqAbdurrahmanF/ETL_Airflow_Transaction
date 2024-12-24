@@ -51,7 +51,7 @@ Download Data → Extract Data → Load to MySQL → Transform Data → Load to 
 
 ### Running the Pipeline
 - Access the Airflow UI at `http://localhost:8080`.
-- Trigger the DAG named `etl_kaggle_dag`.
+- Trigger the DAG named `kaggle_etl_dag`.
 
 ## Results
 - Raw data is stored in MySQL for staging.
