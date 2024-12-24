@@ -36,9 +36,9 @@ Download Data → Extract Data → Load to MySQL → Transform Data → Load to 
 ## File Structure
 ```
 ├── dags
-│   ├── etl_kaggle_dag.py         # Main DAG file for Airflow
+│   ├── kaggle_etl_dag.py         # Main DAG file for Airflow
 ├── data
-│   ├── ecommerce_data.csv        # Sample dataset
+│   ├── Online-eCommerce.csv      # Sample dataset
 ├── README.md                     # Project documentation
 ```
 
